@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:zaytoona/Screens/LoginScreen.dart';
 
+import 'package:zaytoona/views/LoginScreen.dart';
 class SplashScreen extends StatefulWidget {
   @override
   _SplashScreenState createState() => _SplashScreenState();

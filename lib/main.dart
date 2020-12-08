@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:zaytoona/Screens/SplashScreen.dart';
+
+import 'views/SplashScreen.dart';
+
 
 void main() {
   runApp(MyApp());
 }
-
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
