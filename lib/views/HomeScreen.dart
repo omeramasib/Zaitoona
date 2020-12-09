@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zaytoona/Screens/material_screen1.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer1.dart';
+import 'package:zaytoona/views/material_screen1.dart';
+import 'package:zaytoona/views/questions_grammer/question_grammer1.dart';
 import 'package:toast/toast.dart';
 
 class HomeScreen extends StatefulWidget {

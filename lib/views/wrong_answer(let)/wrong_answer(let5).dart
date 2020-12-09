@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zaytoona/Screens/question_let/question_let1.dart';
-import 'package:zaytoona/Screens/question_let/question_let2.dart';
-import 'package:zaytoona/Screens/question_let/question_let3.dart';
-import 'package:zaytoona/Screens/question_let/question_let4.dart';
-import 'package:zaytoona/Screens/question_let/question_let5.dart';
-import 'package:zaytoona/Screens/question_let/question_let6.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer2.dart';
+import 'package:zaytoona/views/question_let/question_let6.dart';
+import 'package:zaytoona/views/questions_grammer/question_grammer2.dart';
 
 class WrongAnswerL5 extends StatefulWidget {
   @override

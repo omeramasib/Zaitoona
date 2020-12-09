@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:zaytoona/Screens/right_answer(let)/right_answer(let1).dart';
-import 'package:zaytoona/Screens/right_answer(let)/right_answer(let2).dart';
-import 'package:zaytoona/Screens/right_answer(let)/right_answer(letr3).dart';
-import 'package:zaytoona/Screens/wrong_answer(let)/wrong_answer(let1).dart';
-import 'package:zaytoona/Screens/wrong_answer(let)/wrong_answer(let2).dart';
-import 'package:zaytoona/Screens/wrong_answer(let)/wrong_answer(let3).dart';
+import 'package:zaytoona/views/right_answer(let)/right_answer(let1).dart';
+import 'package:zaytoona/views/right_answer(let)/right_answer(let2).dart';
+import 'package:zaytoona/views/right_answer(let)/right_answer(letr3).dart';
+import 'package:zaytoona/views/wrong_answer(let)/wrong_answer(let1).dart';
+import 'package:zaytoona/views/wrong_answer(let)/wrong_answer(let2).dart';
+import 'package:zaytoona/views/wrong_answer(let)/wrong_answer(let3).dart';
 import 'package:zaytoona/data/data.dart';
 
 import '../material_screen1.dart';

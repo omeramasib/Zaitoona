@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:zaytoona/Screens/material_screen1.dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer1).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer1).dart';
+import 'package:zaytoona/views/material_screen1.dart';
+import 'package:zaytoona/views/right_answer(grammer)/right_answer(grammer1).dart';
+import 'package:zaytoona/views/wrong_answer(grammer)/wrong_answer(grammer1).dart';
 import 'package:zaytoona/models/question_char.dart';
 import 'package:zaytoona/models/questions.dart';
 import 'package:zaytoona/data/data.dart';

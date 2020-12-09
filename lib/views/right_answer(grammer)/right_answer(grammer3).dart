@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer4.dart';
+import 'package:zaytoona/views/questions_grammer/question_grammer4.dart';
 
 class RightAnswerG3 extends StatefulWidget {
   @override

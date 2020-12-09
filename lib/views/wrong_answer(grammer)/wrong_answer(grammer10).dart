@@ -1,17 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zaytoona/Screens/material_screen1.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer10.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer3.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer4.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer5.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer6.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer7.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer8.dart';
-import 'package:zaytoona/Screens/questions_grammer/question_grammer9.dart';
-
+import 'package:zaytoona/views/material_screen1.dart';
 class WrongAnswerG10 extends StatefulWidget {
-
-
   @override
   _WrongAnswerG2State createState() => _WrongAnswerG2State();
 }

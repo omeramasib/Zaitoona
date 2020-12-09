@@ -1,25 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer1).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer10).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer2).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer3).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer4).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer5).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer6).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer7).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer8).dart';
-import 'package:zaytoona/Screens/right_answer(grammer)/right_answer(grammer9).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer1).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer10).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer2).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer4).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer5).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer6).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer7).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer8).dart';
-import 'package:zaytoona/Screens/wrong_answer(grammer)/wrong_answer(grammer9).dart';
-import 'package:zaytoona/models/question_char.dart';
-import 'package:zaytoona/models/questions.dart';
+import 'package:zaytoona/views/right_answer(grammer)/right_answer(grammer10).dart';
+import 'package:zaytoona/views/wrong_answer(grammer)/wrong_answer(grammer10).dart';
 import 'package:zaytoona/data/data.dart';
 
 import '../material_screen1.dart';
