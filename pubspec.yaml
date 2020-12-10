@@ -31,6 +31,7 @@ dependencies:
   toast: ^0.1.5
   http: ^0.12.2
   provider:
+  device_preview: ^0.4.5
 
 dev_dependencies:
   flutter_test:
